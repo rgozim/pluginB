@@ -8,6 +8,7 @@ plugins {
 //
 // NO VERSION REQUIRED HERE
 //
+group = "org.example"
 
 repositories {
     mavenLocal()
